@@ -23,6 +23,14 @@ Atualmente estou construindo meu portfólio com projetos práticos nas áreas de
 />
 <img 
     align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -48,11 +56,29 @@ Atualmente estou construindo meu portfólio com projetos práticos nas áreas de
 
 <img 
     align="left" 
-    alt="azure" 
-    title="azure"
+    alt="Postgres" 
+    title="Postgres"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;" 
+    style="paddin-bottom: 30px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="AirFlow" 
+    title="ApacheAirflow"
+    width="30px"
+    style="padding-right: 10px;" 
+    style="paddin-bottom: 30px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
 />
 
       
