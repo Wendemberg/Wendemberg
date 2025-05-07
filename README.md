@@ -1,8 +1,5 @@
-<h1 align="center">👋 Olá, eu sou o Berg!</h1>
+<h1 align="left">👋 Olá, eu sou o Berg!</h1>
 
-<p align="center">
-  🚀 Engenheiro de Dados em formação | 👨‍💻 Desenvolvedor Python | 🎯 Foco em automação e integração de dados
-</p>
 
 ---
 
@@ -14,45 +11,48 @@ Atualmente estou construindo meu portfólio com projetos práticos nas áreas de
 
 ---
 
-### 🧰 Tecnologias e Ferramentas que uso
+### Linguagens e tecnologias
 
-#### 🐍 Linguagens
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="bash" 
+    title="bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="azure" 
+    title="azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
 
-#### 🛠️ Ferramentas de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![DBT](https://img.shields.io/badge/-dbt-FF692F?style=flat&logo=dbt&logoColor=white)
+<img 
+    align="left" 
+    alt="azure" 
+    title="azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
-#### 🔁 Orquestração & Workflow
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-#### 📊 Visualização
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
-
-
----
-
-### 🗂️ Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Pipelines com Airflow + Snowflake** | Pipeline ETL real com Airflow, dbt e Snowflake | `Airflow`, `Snowflake`, `DBT` |
-| **Migração para BigQuery** | Extração do Snowflake, transformação local e carga no BigQuery | `Python`, `BigQuery`, `Pandas` |
-
----
-
-### 📫 Entre em contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/wendemberg-henrique/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bergwer99@gmail.com)
-
----
-
-⭐️ **Sinta-se à vontade para explorar os projetos, clonar e dar uma estrela!**  
+      
