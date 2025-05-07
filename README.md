@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou o Berg!</h1>
+<h1 align="left">🧑‍💻 Olá, eu sou o Berg!</h1>
 
 
 ---
