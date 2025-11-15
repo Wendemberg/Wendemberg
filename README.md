@@ -5,9 +5,7 @@
 
 ### 📌 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas, Pós Graduando em Engenharia de dados. Tenho paixão por dados, automações e resolver problemas com código limpo, eficiente e com propósito.
-
-Atualmente estou construindo meu portfólio com projetos práticos nas áreas de engenharia de dados, APIs, pipelines, dashboards e automações Python.
+Formado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Dados e Cloud Computing, tenho paixão por transformar dados em soluções eficientes. Trabalho com engenharia de dados, APIs, pipelines, dashboards e automações em Python, sempre priorizando boas práticas, organização e propósito no código. Atualmente estou expandindo meu portfólio com projetos reais que demonstram minha evolução técnica e minha capacidade de resolver problemas de forma inteligente e escalável.
 
 ---
 
